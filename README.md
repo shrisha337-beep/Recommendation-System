@@ -15,7 +15,7 @@ CineMatch is an NLP-powered content-based movie recommendation system that recom
 
 The recommendation engine leverages Natural Language Processing (NLP), Bag-of-Words vectorization, and Cosine Similarity to process over 4,800 movies and generate recommendations in real time through a Flask-powered web application.
 
-🌐 **Live Demo:** YOUR_RENDER_URL_HERE
+🌐 **Live Demo:** https://recommendation-system-1-gjc3.onrender.com
 
 ---
 

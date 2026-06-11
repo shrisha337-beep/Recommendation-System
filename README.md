@@ -348,7 +348,7 @@ Ajay Kumar Garg Engineering College (AKGEC)
 ### Connect With Me
 
 * GitHub: https://github.com/shrisha337-beep
-* LinkedIn: YOUR_LINKEDIN_URL
+* LinkedIn: [www.linkedin.com/in/shri04](url)
 
 ---
 
